@@ -37,12 +37,12 @@ Minso Jeong, MOOC 인공지능 3주완성 과정 (2020. 07. 06 ~ 2020. 07. 24)
 
 ## Setting
 * Tensorflow GPU 사용하기 위한 준비 사항
-    * NVIDIA 그래픽 카드 설치 [Click👉](https://www.nvidia.co.kr/Download/Find.aspx?lang=kr)
+    * NVIDIA 그래픽 카드 설치 [Click👈](https://www.nvidia.co.kr/Download/Find.aspx?lang=kr)
         * 설치 확인 (cd C:\Program Files\NVIDIA Corporation\NVSMI)
-    * CUDA 설치 [Click👉](https://developer.nvidia.com/cuda-toolkit-archive)
-    * CuDNN 설치 [Click👉](https://developer.nvidia.com/rdp/cudnn-download#a-collapse714-92)    
-* anaconda 설치 [Click👉](https://www.anaconda.com/products/individual)
-* pycharm 설치 [Click👉](https://www.jetbrains.com/ko-kr/pycharm)
+    * CUDA 설치 [Click👈](https://developer.nvidia.com/cuda-toolkit-archive)
+    * CuDNN 설치 [Click👈](https://developer.nvidia.com/rdp/cudnn-download#a-collapse714-92)    
+* anaconda 설치 [Click👈](https://www.anaconda.com/products/individual)
+* pycharm 설치 [Click👈](https://www.jetbrains.com/ko-kr/pycharm)
 * 가상환경 생성
     * Anaconda Prompt
     ```
